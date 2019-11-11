@@ -34,7 +34,7 @@ To get started:
 
 ## Building for production
 
-This project includes an example of setting up both [Purgecss](https://www.purgecss.com/) and [cssnano](https://cssnano.co/) to optimize your CSS for production. It no longer includes [Concurrently](https://github.com/kimmobrunfeldt/concurrently) and [live-server](http://tapiov.net/live-server) because I use vscode [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
+This project includes an example of setting up both [Purgecss](https://www.purgecss.com/) and [cssnano](https://cssnano.co/) to optimize your CSS for production. It no longer includes [Concurrently](https://github.com/kimmobrunfeldt/concurrently) and [live-server](http://tapiov.net/live-server) because it uses vscode [live server extension](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer).
 
 To build an optimized version of your CSS, simply run:
 
